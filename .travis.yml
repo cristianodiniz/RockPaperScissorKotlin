@@ -9,12 +9,12 @@ env:
   - CI=true
 
 script:
-  - ./gradlew build -x signArchives -s
+  - ./gradlew assemble
 
-before_cache:
-  - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
+# before_cache:
+#   - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
 
-cache:
-  directories:
-    - $HOME/.gradle/caches/modules-2/
-    - $HOME/.gradle/wrapper/dists/
+# cache:
+#   directories:
+#     - $HOME/.gradle/caches/modules-2/
+#     - $HOME/.gradle/wrapper/dists/
