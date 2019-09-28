@@ -1,6 +1,6 @@
 # RockPaperScissorKotlin
 [![Build Status](https://travis-ci.com/cristianodiniz/RockPaperScissorKotlin.svg?branch=master)](https://travis-ci.com/cristianodiniz/RockPaperScissorKotlin)
-![Crates.io](https://img.shields.io/crates/l/rustc-serialize)
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize)
 (https://raw.githubusercontent.com/cristianodiniz/RockPaperScissorKotlin/master/LICENSE)
 
 This project is a simple example of implementation of the game Rock, Paper, and Scissor using Kotlin language.
