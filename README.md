@@ -1,4 +1,4 @@
-# RockPaperScissorKotlin
+# Rock-Paper-Scissor
 [![Build Status](https://travis-ci.com/cristianodiniz/RockPaperScissorKotlin.svg?branch=master)](https://travis-ci.com/cristianodiniz/RockPaperScissorKotlin)
 [![Crates.io](https://img.shields.io/crates/l/rustc-serialize)](https://raw.githubusercontent.com/cristianodiniz/RockPaperScissorKotlin/master/LICENSE)
 
