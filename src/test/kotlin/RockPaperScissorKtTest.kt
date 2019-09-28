@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Assertions.assertThrows
 import org.junit.jupiter.api.Test
 
 
-internal class MainKtTest {
+internal class RockPaperScissorKtTest {
 
     private val player1 = Player("P1", HUMAN)
     private val player2 = Player("P2", MACHINE)
