@@ -1,7 +1,12 @@
 package enums
 
-enum class Options {
+enum class OptionsEnum {
     ROCK,
     PAPER,
     SCISSORS,
+}
+
+enum class PlayerTypeEnum {
+    HUMAN,
+    MACHINE,
 }
