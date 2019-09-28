@@ -27,12 +27,10 @@ fun main(args: Array<String>) {
     println("Draw : ${matches.scoreBoard.draw}")
     println("************** Result ***************")
 
-    if (matches.scoreBoard.scoreP1 == matches.scoreBoard.scoreP2){
-        println("The game was a draw")
-    }else if(matches.scoreBoard.scoreP1 >= matches.scoreBoard.scoreP2){
-        println("${player1.name} won")
-    }else{
-        println("${player2.name} won")
+    when {
+        matches.scoreBoard.scoreP1 == matches.scoreBoard.scoreP2 -> println("The game was a draw")
+        matches.scoreBoard.scoreP1 >= matches.scoreBoard.scoreP2 -> println("${player1.name} won")
+        else -> println("${player2.name} won")
     }
     println("*************************************")
 
