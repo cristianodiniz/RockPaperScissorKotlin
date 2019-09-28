@@ -1,5 +1,6 @@
 # RockPaperScissorKotlin
 [![Build Status](https://travis-ci.com/cristianodiniz/RockPaperScissorKotlin.svg?branch=master)](https://travis-ci.com/cristianodiniz/RockPaperScissorKotlin)
+(https://raw.githubusercontent.com/cristianodiniz/RockPaperScissorKotlin/master/LICENSE)
 
 This project is a simple example of implementation of the game Rock, Paper, and Scissor using Kotlin language.
 
@@ -63,3 +64,10 @@ RockPaperScissorKotlin
 - 5 - Go to ./src/main/kotlin/Demo.kt at the "Project Explore"
 - 6 - Run "main" function
 
+
+## Author
+
+Cristiano Diniz Pinto, cristianodp@gmail.com
+
+## License
+Chamada is available under the Apache License 2.0. See the LICENSE file for more info.
