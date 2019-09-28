@@ -54,7 +54,7 @@ RockPaperScissorKotlin
 
 ```
 
-## How to run
+## How to run with IntelliJ
 
 - 1 - Clone de project
 - 2 - Open IntelliJ
