@@ -56,7 +56,7 @@ RockPaperScissorKotlin
 
 ## How to run with IntelliJ
 
-- 1 - Clone de project
+- 1 - Clone the project
 - 2 - Open IntelliJ
 - 3 - Go to menu
        -> New -> Project from existing source
