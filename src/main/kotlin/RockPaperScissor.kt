@@ -9,7 +9,6 @@ data class Player(val name: String, val type: PlayerTypeEnum)
 
 data class ScoreBoard(var scoreP1: Int, var scoreP2: Int, var draw: Int)
 
-
 class Matches(private val player1: Player, private val player2: Player) {
 
     var scoreBoard = ScoreBoard(0, 0, 0)
